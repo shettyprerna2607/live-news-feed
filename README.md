@@ -29,7 +29,3 @@ The stack leverages **efficient code structure**, **live API integration**, and 
 
 ## 📸 Screenshot
 ![WhatsApp Image 2025-10-26 at 12 31 25_43863dda](https://github.com/user-attachments/assets/7daab14a-bb9b-4a7d-8d83-3be7f04e2345)
-
-
-   git clone https://github.com/yourusername/live-news-feed.git
-
